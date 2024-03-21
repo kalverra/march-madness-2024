@@ -1,0 +1,158 @@
+=============
+Round 2
+=============
+
+-----------
+East
+-----------
+Connecticut           @ 0.995   vs Stetson               @ 0.00498: Rolled 0.488   to beat 0.993   => Connecticut           Upset? False
+Florida Atlantic      @ 0.655   vs Northwestern          @ 0.345  : Rolled 0.217   to beat 0.482   => Florida Atlantic      Upset? False
+San Diego State       @ 0.781   vs UAB                   @ 0.219  : Rolled 0.457   to beat 0.671   => San Diego State       Upset? False
+Auburn                @ 0.858   vs Yale                  @ 0.142  : Rolled 0.0193  to beat 0.787   => Auburn                Upset? False
+Brigham Young         @ 0.764   vs Duquesne              @ 0.236  : Rolled 0.227   to beat 0.646   => Brigham Young         Upset? False
+Illinois              @ 0.918   vs Morehead State        @ 0.0815 : Rolled 0.896   to beat 0.878   => Morehead State        Upset? True
+Drake                 @ 0.562   vs Washington State      @ 0.438  : Rolled 0.0579  to beat 0.344   => Drake                 Upset? False
+Iowa State            @ 0.947   vs South Dakota State    @ 0.0525 : Rolled 0.494   to beat 0.921   => Iowa State            Upset? False
+
+-----------
+West
+-----------
+North Carolina        @ 0.987   vs Wagner                @ 0.00382: Rolled 0.244   to beat 0.985   => North Carolina        Upset? False
+Michigan State        @ 0.549   vs Mississippi State     @ 0.451  : Rolled 0.365   to beat 0.324   => Mississippi State     Upset? True
+Saint Mary's          @ 0.646   vs Grand Canyon          @ 0.354  : Rolled 0.515   to beat 0.469   => Grand Canyon          Upset? True
+Alabama               @ 0.796   vs Charleston            @ 0.204  : Rolled 0.282   to beat 0.694   => Alabama               Upset? False
+Clemson               @ 0.504   vs New Mexico            @ 0.496  : Rolled 0.476   to beat 0.256   => New Mexico            Upset? True
+Baylor                @ 0.887   vs Colgate               @ 0.113  : Rolled 0.246   to beat 0.83    => Baylor                Upset? False
+Nevada                @ 0.528   vs Dayton                @ 0.472  : Rolled 0.158   to beat 0.291   => Nevada                Upset? False
+Arizona               @ 0.966   vs Long Beach State      @ 0.0335 : Rolled 0.28    to beat 0.95    => Arizona               Upset? False
+
+-----------
+South
+-----------
+Houston               @ 0.967   vs Longwood              @ 0.033  : Rolled 0.417   to beat 0.95    => Houston               Upset? False
+Texas A&M             @ 0.537   vs Nebraska              @ 0.463  : Rolled 0.487   to beat 0.305   => Nebraska              Upset? True
+Wisconsin             @ 0.663   vs James Madison         @ 0.337  : Rolled 0.0261  to beat 0.495   => Wisconsin             Upset? False
+Duke                  @ 0.842   vs Vermont               @ 0.158  : Rolled 0.754   to beat 0.763   => Duke                  Upset? False
+North Carolina State  @ 0.507   vs Texas Tech            @ 0.493  : Rolled 0.0777  to beat 0.261   => North Carolina State  Upset? False
+Kentucky              @ 0.906   vs Oakland               @ 0.0935 : Rolled 0.697   to beat 0.86    => Kentucky              Upset? False
+Florida               @ 0.514   vs Colorado              @ 0.309  : Rolled 0.249   to beat 0.36    => Florida               Upset? False
+Marquette             @ 0.843   vs Western Kentucky      @ 0.157  : Rolled 0.459   to beat 0.764   => Marquette             Upset? False
+
+-----------
+Midwest
+-----------
+Purdue                @ 0.991   vs Montana State         @ 0.0066 : Rolled 0.0564  to beat 0.988   => Purdue                Upset? False
+TCU                   @ 0.628   vs Utah State            @ 0.372  : Rolled 0.571   to beat 0.442   => Utah State            Upset? True
+Gonzaga               @ 0.85    vs McNeese State         @ 0.15   : Rolled 0.562   to beat 0.774   => Gonzaga               Upset? False
+Kansas                @ 0.766   vs Samford               @ 0.234  : Rolled 0.487   to beat 0.649   => Kansas                Upset? False
+South Carolina        @ 0.572   vs Oregon                @ 0.428  : Rolled 0.235   to beat 0.358   => South Carolina        Upset? False
+Creighton             @ 0.851   vs Akron                 @ 0.149  : Rolled 0.39    to beat 0.777   => Creighton             Upset? False
+Texas                 @ 0.649   vs Colorado State        @ 0.142  : Rolled 0.0995  to beat 0.578   => Texas                 Upset? False
+Tennessee             @ 0.975   vs St. Peter's           @ 0.025  : Rolled 0.447   to beat 0.963   => Tennessee             Upset? False
+
+=============
+Round 3
+=============
+
+-----------
+East
+-----------
+Connecticut           @ 0.894   vs Florida Atlantic      @ 0.0822 : Rolled 0.232   to beat 0.853   => Connecticut           Upset? False
+Auburn                @ 0.598   vs San Diego State       @ 0.315  : Rolled 0.266   to beat 0.44    => Auburn                Upset? False
+Brigham Young         @ 0.298   vs Morehead State        @ 0.019  : Rolled 0.0613  to beat 0.289   => Brigham Young         Upset? False
+Iowa State            @ 0.744   vs Drake                 @ 0.147  : Rolled 0.0284  to beat 0.67    => Iowa State            Upset? False
+
+-----------
+West
+-----------
+North Carolina        @ 0.664   vs Mississippi State     @ 0.141  : Rolled 0.335   to beat 0.594   => North Carolina        Upset? False
+Alabama               @ 0.486   vs Grand Canyon          @ 0.13   : Rolled 0.127   to beat 0.421   => Alabama               Upset? False
+Baylor                @ 0.573   vs New Mexico            @ 0.198  : Rolled 0.303   to beat 0.474   => Baylor                Upset? False
+Arizona               @ 0.775   vs Nevada                @ 0.12   : Rolled 0.656   to beat 0.715   => Arizona               Upset? False
+
+-----------
+South
+-----------
+Houston               @ 0.724   vs Nebraska              @ 0.12   : Rolled 0.215   to beat 0.663   => Houston               Upset? False
+Duke                  @ 0.563   vs Wisconsin             @ 0.287  : Rolled 0.0876  to beat 0.42    => Duke                  Upset? False
+Kentucky              @ 0.654   vs North Carolina State  @ 0.162  : Rolled 0.106   to beat 0.573   => Kentucky              Upset? False
+Marquette             @ 0.485   vs Florida               @ 0.248  : Rolled 0.444   to beat 0.36    => Florida               Upset? True
+
+-----------
+Midwest
+-----------
+Purdue                @ 0.855   vs Utah State            @ 0.0389 : Rolled 0.569   to beat 0.835   => Purdue                Upset? False
+Gonzaga               @ 0.546   vs Kansas                @ 0.358  : Rolled 0.489   to beat 0.367   => Kansas                Upset? True
+Creighton             @ 0.638   vs South Carolina        @ 0.188  : Rolled 0.465   to beat 0.544   => Creighton             Upset? False
+Tennessee             @ 0.721   vs Texas                 @ 0.203  : Rolled 0.554   to beat 0.619   => Tennessee             Upset? False
+
+=============
+Round 4
+=============
+
+-----------
+East
+-----------
+Connecticut           @ 0.726   vs Auburn                @ 0.178  : Rolled 0.659   to beat 0.637   => Auburn                Upset? True
+Iowa State            @ 0.44    vs Brigham Young         @ 0.118  : Rolled 0.104   to beat 0.382   => Iowa State            Upset? False
+
+-----------
+West
+-----------
+North Carolina        @ 0.407   vs Alabama               @ 0.227  : Rolled 0.0488  to beat 0.293   => North Carolina        Upset? False
+Arizona               @ 0.557   vs Baylor                @ 0.234  : Rolled 0.305   to beat 0.44    => Arizona               Upset? False
+
+-----------
+South
+-----------
+Houston               @ 0.509   vs Duke                  @ 0.237  : Rolled 0.0639  to beat 0.391   => Houston               Upset? False
+Kentucky              @ 0.365   vs Florida               @ 0.107  : Rolled 0.144   to beat 0.312   => Kentucky              Upset? False
+
+-----------
+Midwest
+-----------
+Purdue                @ 0.661   vs Kansas                @ 0.108  : Rolled 0.353   to beat 0.607   => Purdue                Upset? False
+Tennessee             @ 0.462   vs Creighton             @ 0.322  : Rolled 0.0264  to beat 0.301   => Tennessee             Upset? False
+
+=============
+Round 5
+=============
+
+-----------
+East
+-----------
+Iowa State            @ 0.15    vs Auburn                @ 0.101  : Rolled 0.0129  to beat 0.0996  => Iowa State            Upset? False
+
+-----------
+West
+-----------
+Arizona               @ 0.377   vs North Carolina        @ 0.192  : Rolled 0.305   to beat 0.281   => North Carolina        Upset? True
+
+-----------
+South
+-----------
+Houston               @ 0.36    vs Kentucky              @ 0.152  : Rolled 0.0358  to beat 0.283   => Houston               Upset? False
+
+-----------
+Midwest
+-----------
+Purdue                @ 0.449   vs Tennessee             @ 0.218  : Rolled 0.102   to beat 0.34    => Purdue                Upset? False
+
+=============
+Round 6
+=============
+
+-----------
+Final Four
+-----------
+Iowa State            @ 0.0806  vs North Carolina        @ 0.077  : Rolled 0.064   to beat 0.0421  => North Carolina        Upset? True
+Purdue                @ 0.28    vs Houston               @ 0.196  : Rolled 0.208   to beat 0.183   => Houston               Upset? True
+
+=============
+Round 7
+=============
+
+-----------
+Championship
+-----------
+Houston               @ 0.0983  vs North Carolina        @ 0.0364 : Rolled 0.0662  to beat 0.0801  => Houston               Upset? False
